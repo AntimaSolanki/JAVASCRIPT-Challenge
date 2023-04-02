@@ -7,7 +7,9 @@
 // value1(valid)
 
 var value1 =2;
-console.log(value1 **2);
+console.log(value1 **2);  //2 ki power 2 = 4
+console.log(value1 **3);  //2 ki power 3 = 8
+
 
 
 
