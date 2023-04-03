@@ -31,3 +31,22 @@ console.log(antima);
 
 let myString=+"19";
 console.log(typeof myString);
+
+
+// covert string to number 
+let number=20;
+number=+"number";
+console.log(typeof(number));
+
+//second method 
+number=String(number);
+console.log(typeof(number));
+
+//convert number to string 
+let string ="20";
+string =string+" ";
+console.log(typeof(string));
+
+//second method
+string=Number(string);
+console.log(typeof(string));

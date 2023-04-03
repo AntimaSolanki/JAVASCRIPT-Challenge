@@ -14,3 +14,14 @@ console.log(newString.length);
 
 console.log(firstName.toUpperCase());
 console.log(firstName.toLowerCase());
+
+
+let lastName="Solanki ";
+ 
+console.log(lastName.length);
+let newLastName=lastName.trim();
+console.log(newLastName);
+console.log(newLastName.length);
+
+console.log(lastName.toUpperCase());
+console.log(lastName.toLowerCase());

@@ -8,6 +8,6 @@ console.log(firstName);
 
 
 // in caseof let u can not create the same type 
-// of variable ypu canchange it 
+// of variable you can change it 
 
 // block scope v/s function scope 

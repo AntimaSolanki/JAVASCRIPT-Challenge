@@ -2,7 +2,7 @@
 
 
 let string1="Antima";
-let string2="Anu";
+let string2="Solanki";
 
 let fullName=string1+" "+string2;
 console.log(fullName);
