@@ -27,3 +27,14 @@ switch(day ){
     default :
     console.log("Invaild Day");                  
 }
+let months=1;
+switch(months){
+    case 1:
+    console.log("january ");
+    case 2:
+        console.log("febuary ");
+    case 3:
+        console.log("march");
+    default:
+        console.log("other months");
+}
